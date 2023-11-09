@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-void foo(){
+void goo(){
 
-    printf("foo hello");
+    printf("goo hello");
 
     return 0;
 
